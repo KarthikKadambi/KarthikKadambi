@@ -25,3 +25,10 @@ I am Karthik Kadambi. Thanks for dropping by! I like to code and build amazing p
 - 📫 How to reach me: https://karthikkadambi.com
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: Trying to start my long term passion of learning a music instrument.
+
+<p><b>My Skills</b></p>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,babel,bash,css,express,figma,firebase,flutter,gcp,git,github,graphql,html,js,md,mongodb,nextjs,mysql,nodejs,postman,react,redux,swift,tailwind,tensorflow,terraform,typescript,vitest,vscode,webpack,yarn&perline=11" />
+  </a>
+</p>

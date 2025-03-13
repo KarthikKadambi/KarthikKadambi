@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github Header](github-header-image.png)
+![Github Header](header-image.png)
 
 ## About Me
 

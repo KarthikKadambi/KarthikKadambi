@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ## About Me
 
-Thanks for dropping by! I like to code and build amazing products.
-🐻 🐘
+Thanks for dropping by! I am passionate about coding and build amazing products that makes a difference.
+I am from Bengaluru, 🐘, 🇮🇳  and currently reside in San Francisco, 🐻, 🇺🇸. Stuck between sister cities.
 
 - 🔭 I’m currently working on an amazing product🤫.
 - 🌱 I’m currently learning about perfecting full stack development.
@@ -87,6 +87,6 @@ Thanks for dropping by! I like to code and build amazing products.
 
 ## Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthikkadambi&show_icons=true&locale=en&layout=compact" alt="karthikkadambi" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=karthikkadambi&show_icons=true&locale=en&layout=compact" alt="karthikkadambi" /></p><br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthikkadambi&show_icons=true&locale=en" alt="karthikkadambi" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=karthikkadambi&show_icons=true&locale=en" alt="karthikkadambi" />

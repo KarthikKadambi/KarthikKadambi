@@ -68,7 +68,7 @@ Thanks for dropping by! I like to code and build amazing products.
 ⏳
 
 ### Framework
-electron #47848F
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
 ### Testing
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)

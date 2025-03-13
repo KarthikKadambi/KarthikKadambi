@@ -84,3 +84,9 @@ Thanks for dropping by! I like to code and build amazing products.
 
 ### Markup language 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+## Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthikkadambi&show_icons=true&locale=en&layout=compact" alt="karthikkadambi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthikkadambi&show_icons=true&locale=en" alt="karthikkadambi" /></p>

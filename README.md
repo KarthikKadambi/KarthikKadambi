@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## About Me
 
 Thanks for dropping by! I am passionate about coding and building amazing products that makes a difference.
-I am from Bengaluru, 🐘, 🇮🇳  and currently reside in San Francisco bay area, 🐻, 🇺🇸. Stuck between sister cities.
+I am from Bengaluru, 🐘, 🇮🇳  and currently reside in San Francisco Bay Area, 🐻, 🇺🇸. Stuck between sister cities.
 
 - 🔭 I’m currently working on an amazing product🤫.
 - 🌱 I’m currently learning about perfecting [Full stack development](https://roadmap.sh/full-stack).

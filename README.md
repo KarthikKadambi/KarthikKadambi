@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## About Me
 
 Thanks for dropping by! I am passionate about coding and building amazing products that makes a difference.
-I am from Bengaluru, 🐘, 🇮🇳  and currently reside in San Francisco, 🐻, 🇺🇸. Stuck between sister cities.
+I am from Bengaluru, 🐘, 🇮🇳  and currently reside in San Francisco bay area, 🐻, 🇺🇸. Stuck between sister cities.
 
 - 🔭 I’m currently working on an amazing product🤫.
 - 🌱 I’m currently learning about perfecting [Full stack development](https://roadmap.sh/full-stack).
@@ -29,7 +29,9 @@ I am from Bengaluru, 🐘, 🇮🇳  and currently reside in San Francisco, 🐻
 - 😄 Pronouns: he/him.
 - 📄 Know about my experiences: https://www.linkedin.com/in/kkadambi
 - ⚡ Fun fact: Trying to start my long term passion of learning a music instrument 🎹.
-  
+
+*Disclaimer: I am currently employed full time and not available for freelance or contract work in complaiance with H1B visa regulations. The content i create in my blog is for knowledge sharing and the code in github is to showcase my work.*
+
 ## Skills
 
 ### Programming Languages

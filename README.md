@@ -30,7 +30,7 @@ I am from Bengaluru, 🐘, 🇮🇳  and currently reside in San Francisco Bay A
 - 📄 Know about my experiences: https://www.linkedin.com/in/kkadambi
 - ⚡ Fun fact: Trying to start my long term passion of learning a music instrument 🎹.
 
-*Disclaimer: I am currently employed full time and not available for freelance or contract work in complaiance with H1B visa regulations. The content i create in my blog is for knowledge sharing and the code in github is to showcase my work.*
+*Disclaimer: I am currently employed full time and not available for freelance or contract work in compliance with H1B visa regulations. The content i create in my blog is for knowledge sharing and the code in github is to showcase my work.*
 
 ## Skills
 

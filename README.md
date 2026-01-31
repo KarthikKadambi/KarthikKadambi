@@ -20,17 +20,17 @@ Here are some ideas to get you started:
 Thanks for dropping by! I am passionate about coding and building amazing products that makes a difference.
 I am from Bengaluru, 🐘, 🇮🇳  and currently reside in San Francisco Bay Area, 🐻, 🇺🇸. Stuck between sister cities.
 
-- 🔭 I’m currently working on an amazing product🤫.
-- 🌱 I’m currently learning about perfecting [Full stack development](https://roadmap.sh/full-stack).
-- 👯 I’m looking to collaborate on JavaScript.
-- 🤔 I’m looking for help with Product Building, Graphic Design.
+Working as Senior Lead Engineer at Brillio.
+
+- 🔭 I’m currently working on some amazing open source projects🤫.
+- 🌱 I’m currently trying to perfect [Full stack development](https://roadmap.sh/full-stack).
 - 💬 Ask me about: Personal Finance, Life and Fullstack development with JavaScript.
-- 📫 How to reach me: https://karthikkadambi.com
+- 📫 How to reach me: https://karthikkadambi.com/
 - 😄 Pronouns: he/him.
-- 📄 Know about my experiences: https://www.linkedin.com/in/kkadambi
+- 📄 Know about my experiences: https://www.linkedin.com/in/kkadambi/
 - ⚡ Fun fact: Trying to start my long term passion of learning a music instrument 🎹.
 
-*Disclaimer: I am currently employed full time and not available for freelance or contract work in compliance with H1B visa regulations. The content i create in my blog is for knowledge sharing and the code in github is to showcase my work.*
+*Disclaimer: I am currently employed full time and not available for freelance or contract work in compliance with H1B visa regulations. The content i create in my blog is for knowledge sharing and the code or projects in github or product hunt is to purely showcase my work.*
 
 ## Skills
 
